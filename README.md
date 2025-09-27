@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMxcndqZWY2aHB0cXRkMmoxcDNqaWxobjJqeTRzeWowdzczMDlreCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif"  />
+<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMxcndqZWY2aHB0cXRkMmoxcDNqaWxobjJqeTRzeWowdzczMDlreCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif"  />
 
 ###
 
@@ -52,7 +52,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/angelinpramod/angelinpramod/output/snake.svg" alt="Snake animation"/>
 
 ###
