@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Angelin <h2>
-<h2 align="left"> I'm 🔍 Exploring the Digital Underworld</h2>
+<h2 align="left">👩‍💻Hello! I’m Angelin! Welcome to my github profile :)</h2>
+<p align="left">I'm 🔍 Exploring the Digital Underworld, a curious cybersecurity enthusiast—learning to keep my digital doors locked while having fun exploring. 🔐 I tinker with C, C++, Bash, Python, shell scripting, and networking, always learning new tricks along the way. Curious, coffee-powered, and always learning. 🚀</p>
 
 ###
 
@@ -7,10 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=angelinpramod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelinpramod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMxcndqZWY2aHB0cXRkMmoxcDNqaWxobjJqeTRzeWowdzczMDlreCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif"  />
 
 ###
 
