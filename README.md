@@ -1,16 +1,7 @@
-<h2 align="left">👩‍💻Hello! I’m Angelin! Welcome to my github profile :)</h2>
+<h2 align="left">👩‍💻Hello! It's ya gurll Angelin :D</h2>
 <p align="left">I'm 🔍 Exploring the Digital Underworld, a curious cybersecurity enthusiast—learning to keep my digital doors locked while having fun exploring. 🔐 I tinker with C, C++, Bash, Python, shell scripting, and networking, always learning new tricks along the way. Curious, coffee-powered, and always learning. 🚀</p>
 
-###
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=angelinpramod&show_icons=true&theme=dracula&cache_seconds=1800" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelinpramod&layout=compact&langs_count=5&theme=dracula&cache_seconds=1800" />
-
-</div>
-
-###
-
+<h2 align="left">Tech n Tools</h2>
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" alt="bash logo"  />
   <img width="12" />
@@ -30,7 +21,7 @@
 </div>
 
 ###
-
+<h2 align="left">Socials:</h2>
 <div align="left">
   <a href="mailto:angelinpramod06@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -47,6 +38,11 @@
 </div>
 
 ###
+<h2 align="left">GitHub Stats:</h2>
+<div align="left">
+ <img src="https://github-readme-stats.vercel.app/api?username=angelinpramod&show_icons=true&theme=dracula&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelinpramod&layout=compact&langs_count=5&theme=dracula&cache_seconds=1800" />
+</div>
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/angelinpramod/angelinpramod/output/snake.svg" alt="Snake animation"/>
