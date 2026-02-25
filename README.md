@@ -40,8 +40,8 @@
 ###
 <h2 align="left">GitHub Stats:</h2>
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=angelinpramod&show_icons=true&theme=dracula&cache_seconds=1800" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelinpramod&layout=compact&langs_count=5&theme=dracula&cache_seconds=1800" />
+ <img src="https://github-readme-stats.vercel.app/api?username=angelinpramod&show_icons=true&theme=dracula&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelinpramod&layout=compact&langs_count=5&theme=dracula&cache_seconds=1800"/>
 </div>
 
 <br clear="both">
