@@ -1,16 +1,16 @@
 <h2 align="left">yo, i'm angelin 👋</h2>
 <p align="left">
-
-A cybersecurity student with a growing interest in linux, networking, and ethical hacking.
+a cybersecurity student with a growing interest in linux, networking, and pretty much anything security-related.
 
 currently:
 
-* learning linux
-* building projects and experimenting with new tools
-* breaking things and figuring out how to fix them
-* exploring how systems work behind the scenes
+* learning new things and connecting random dots
+* figuring out security tools
+* building projects with AI when it makes sense
+* testing my luck with hardware
+* trying to find my footing in cybersecurity
 
-if you see weird projects here, they're either experiments, learning exercises, or me following a random idea down a rabbit hole.
+if you see weird projects here, they're probably experiments, learning exercises, or me following a random idea down a rabbit hole.
 </p>
 
 <h2 align="left">Tech n Tools</h2>
