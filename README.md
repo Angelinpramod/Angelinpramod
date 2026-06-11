@@ -1,5 +1,17 @@
-<h2 align="left">👩‍💻Hello! It's ya gurll Angelin :D</h2>
-<p align="left">I'm 🔍 Exploring the Digital Underworld, a curious cybersecurity enthusiast—learning to keep my digital doors locked while having fun exploring. 🔐 I tinker with C, C++, Bash, Python, shell scripting, and networking, always learning new tricks along the way. Curious, coffee-powered, and always learning. 🚀</p>
+<h2 align="left">yo, i'm angelin 👋</h2>
+<p align="left">
+
+A cybersecurity student with a growing interest in linux, networking, and ethical hacking.
+
+currently:
+
+* learning linux
+* building projects and experimenting with new tools
+* breaking things and figuring out how to fix them
+* exploring how systems work behind the scenes
+
+if you see weird projects here, they're either experiments, learning exercises, or me following a random idea down a rabbit hole.
+</p>
 
 <h2 align="left">Tech n Tools</h2>
 <div align="left">
